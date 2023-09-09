@@ -32,7 +32,6 @@ fi
 
 xwallpaper --zoom ~/Pictures/wallpaper.png
 xcompmgr &
-dwmblocks &
 sxhkd &
 wal -i "${HOME}/Pictures/wallpaper.png"
 exec dwm
